@@ -1,5 +1,5 @@
 test.csv
 train.csv
 sample_submission.csv
-.ipynb_checkpoints
+.ipynb_checkpoints/
 .DS_Store
